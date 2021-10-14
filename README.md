@@ -10,7 +10,7 @@ This data generator project is a simplification based on the generator from the 
 
 [Background pictures](https://drive.google.com/file/d/1Wyul5842e8eAfCe5b0d5z4scex69ww_e/view?usp=sharing)
 
-![image](https://github.com/youdao-ai/SRNet/blob/master/examples/example/data.png)
+![image](https://github.com/HGamal11/Arabic_Synthetic_Data_Generator/blob/master/gensynth.png)
 
 &nbsp;
 
