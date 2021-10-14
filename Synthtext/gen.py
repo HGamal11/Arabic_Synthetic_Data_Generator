@@ -33,7 +33,6 @@ class datagen():
         font_dir = os.path.join(cur_file_path, data_cfg.font_dir)
         self.font_list = os.listdir(font_dir)
         self.font_list = [os.path.join(font_dir, font_name) for font_name in self.font_list]
-        self.standard_font_path = os.path.join(cur_file_path, data_cfg.standard_font_path)
         
         color_filepath = os.path.join(cur_file_path, data_cfg.color_filepath)
         self.colorsRGB, self.colorsLAB = colorize.get_color_matrix(color_filepath)
