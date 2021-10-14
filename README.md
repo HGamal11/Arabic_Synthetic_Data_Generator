@@ -3,7 +3,7 @@
 &nbsp;
 This is the synthetic Arabic data generator from the paper ["Arabic Scene Text Recognition in the Deep Learning Era: Analysis on a Novel Dataset"](https://ieeexplore.ieee.org/document/9499028)
 
-This data generator project is a simplification based on the generator from the paper ["Editing Text in the Wild"](https://github.com/youdao-ai/SRNet-Datagen)
+This data generator is based on the generator from the paper ["Editing Text in the Wild"](https://github.com/youdao-ai/SRNet-Datagen)
 &nbsp;
 
 [Arabic Fonts](https://drive.google.com/file/d/1FHmruZKY-NgowRFSXNh4HmytWcdGD4Jt/view?usp=sharing)
