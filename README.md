@@ -10,7 +10,7 @@ This data generator is based on the generator from the paper ["Editing Text in t
 
 [Background pictures](https://drive.google.com/file/d/1Wyul5842e8eAfCe5b0d5z4scex69ww_e/view?usp=sharing)
 
-![image](https://github.com/HGamal11/Arabic_Synthetic_Data_Generator/blob/master/gensynth.png)
+![image](https://github.com/HGamal11/Arabic_Synthetic_Data_Generator/blob/master/samples.png)
 
 &nbsp;
 
